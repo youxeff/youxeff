@@ -1,4 +1,4 @@
-# Aboutme
+# About Me
 
 I am a first year student at Taylor's University, Malaysia, majoring in Computer Science. I am passionate about software development and have been coding since I was 15 years old. I have experience in a variety of programming languages, including C++, Python, Flask, HTML/CSS, and JavaScript. I am also currently taking the CS50 course, which is one of the most popular online computer science courses in the world.
 
