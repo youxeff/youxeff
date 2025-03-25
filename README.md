@@ -4,4 +4,4 @@ I am a highly motivated and self-driven individual. I am always looking for new 
 
 I am confident that I have the skills and the passion to be a successful developer. I am excited to start my career in the tech industry and I am looking forward to making a positive impact on the world through my work.
 
-I have participated in Coding competitions provided by my institute achieving second place, built an admin portal for my institute's research project, published a done a research project over india's air pollution rate using R programming, and currently  president in my programs coding society.
+I have participated in Coding competitions provided by my institute achieving second place, built an admin portal for my institute's research project, published a research project over india's air pollution rate using R programming, and currently  president in my programs coding society.
